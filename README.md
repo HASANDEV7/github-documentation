@@ -290,5 +290,5 @@ git configuration
 ### [Lesson 21. Merge Conflicts]()
 
 - https://www.tutorialspoint.com/what-is-merge-conflict-in-git-how-to-handle-merge-conflicts
-
+<h6>End of github tutorial</h6>
 <br>
